@@ -1,0 +1,17 @@
+.vscode
+
+weights
+
+*.pyc 
+
+__pycache__
+
+*.so 
+
+*.c 
+
+build
+
+*pth
+*result*
+*txt*
